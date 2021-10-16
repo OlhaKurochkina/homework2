@@ -1,0 +1,69 @@
+body{
+    margin: 0px;
+    background: url("Ferrari.png");
+    opacity: 0.9;
+}
+.uprleft{
+    height: 150px;
+    background: black;
+    display: flex;
+}
+.big{
+    font-size: 60px;
+    text-transform: uppercase;
+    color: #fefcea;
+}
+.small{
+    font-size: 30px;
+    color: #fefcea;
+    margin-top: 27px;
+
+}
+.menu{
+    display: flex;
+    height: 100px;
+    background: linear-gradient(to top, #fefcea, rgba(80, 68, 8, 0.74)) #312f2f;
+    justify-content: space-evenly;
+    align-items: center;
+    border: 1 px silver;
+    margin-bottom: 100px;
+}
+.menu1{
+    width: 60px;
+    height: 30px;
+}
+.menu1 a {
+    font-size: 30px;
+    text-decoration: none;
+    color: #312f2f;
+    text-transform: uppercase;
+}
+
+.down{
+    display: flex;
+    justify-content: space-around;
+}
+
+h2{
+   color: grey;
+}
+.info1{
+   padding: 5px;
+    min-heigh:200px;
+    max-height: 300px;
+    width: 330px;
+    background: silver;
+    margin: 10px 10px 10px 10px;
+    box-sizing: border-box;
+    overflow: auto;
+    border: 5px solid #605b46;
+
+}
+img.bottom{
+    display: block;
+    width: 300px;
+    height: 100px;
+    padding: 2px;
+    border-bottom: 2px solid black;
+
+}
