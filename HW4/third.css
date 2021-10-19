@@ -1,0 +1,39 @@
+.td{
+
+    background: royalblue;
+}
+.a{
+    width: 900px;
+    height: 400px;
+}
+.b{
+    width: 900px;
+    height: 600px;
+}
+
+.c{
+    display: flex;
+    width: 900px;
+
+    background: #d5ca3b;
+    justify-content: space-between;
+
+}
+.cone{
+
+    width: 30%;
+    height: 300px;
+    background: #aa00ff;
+
+}
+.ctwo{
+    width: 30%;
+    height: 300px;
+    background: #4b7224;
+
+}
+.cthree{
+    width: 30%;
+    height: 300px;
+    background: chartreuse;
+}

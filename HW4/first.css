@@ -1,0 +1,27 @@
+.main{
+    display: flex;
+    background: slateblue;
+    flex-direction: column;
+    width: 1000px;
+}
+
+.a{
+    height: 100px;
+    background: #d5ca3b;
+}
+.b{
+    height: 400px;
+    background: #1f1d03;
+    display: flex;
+    justify-content: flex-start;
+}
+.c{
+    width: 50%;
+    height: 350px;
+    background: #a02276;
+}
+.d{
+    width: 50%;
+    height: 350px;
+    background: royalblue;
+}

@@ -1,0 +1,37 @@
+.mainup{
+    width: 900px;
+    height: 200px;
+    background: crimson;
+
+}
+.main1{
+    width: 900px;
+    height: 100px;
+    background: #d5ca3b;
+}
+.main2{
+    width: 900px;
+    height: 100px;
+    background: #aa00ff;
+}
+.middle{
+    width: 900px;
+    height: 500px;
+    background: #605b46;
+    display: flex;
+}
+.a{
+    width:70%;
+    height:500px;
+    background: #4b7224;
+}
+.b{
+     width:30%px;
+     height:500px;
+     background: rgba(199, 183, 118, 0.94);
+ }
+.down{
+    width: 900px;
+    height: 100px;
+    background: #94641b;
+}
